@@ -1,13 +1,7 @@
 
 # projek uas_geometrix citra
-
-A brief description of what this project does and who it's for
-
-
 Penjelasan Teori Geometrik Citra
 Teori geometrik citra merupakan cabang ilmu pengetahuan yang mempelajari hubungan antara objek fisik di dunia nyata dengan representasinya dalam citra digital.
-
-Secara umum, teori geometrik citra membahas tentang:
 
 Secara umum, teori geometrik citra membahas tentang:
 
