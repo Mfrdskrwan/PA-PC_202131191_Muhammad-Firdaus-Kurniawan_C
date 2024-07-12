@@ -10,15 +10,18 @@ Secara umum, teori geometrik citra membahas tentang:
 Proses pengambilan citra, termasuk geometri sensor, geometri platform, dan geometri target.
 Faktor-faktor yang memengaruhi geometri citra, seperti distorsi lensa, aberasi optik, dan gerakan platform.
 Teknik koreksi geometrik untuk memperbaiki distorsi dan meningkatkan akurasi geometrik citra.
+
 2. Representasi Geometrik Citra:
 
 Sistem koordinat yang digunakan untuk merepresentasikan objek dalam citra, seperti koordinat piksel, koordinat geografis, dan koordinat lokal.
 Transformasi geometrik yang digunakan untuk memanipulasi citra, seperti translasi, rotasi, skala, dan shearing.
 Matriks transformasi yang digunakan untuk merepresentasikan transformasi geometrik.
+
 3. Analisis Geometrik Citra:
 
 Teknik untuk mengukur dan menganalisis informasi geometrik dari citra, seperti jarak, sudut, dan bentuk objek.
 Penggunaan geometrik citra untuk aplikasi seperti pemetaan, fotogrammetri, dan pengenalan objek.
+
 4. Aplikasi Teori Geometrik Citra:
 
 Pemetaan: Membuat peta dari citra satelit atau foto udara.
